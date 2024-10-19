@@ -4,7 +4,7 @@
 namespace yogo_audio_plugin_test {
 TEST(AudioPluginAudioProcessor, Foo)
 {
-  AudioPluginAudioProcessor processor;
+  YogoAudioPluginAudioProcessor processor;
   ASSERT_FALSE(false);
 }
 }
